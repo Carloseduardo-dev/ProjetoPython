@@ -1,0 +1,5 @@
+#Ordem de procedencia # type: ignore
+1º ()  parenteses 
+2º **  exponenciação
+3º * , / , // , %  multip. ,div. ,div. int. ,resto da div. 
+4º + , -  soma ,subtração
